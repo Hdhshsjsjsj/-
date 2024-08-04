@@ -17,16 +17,10 @@
 
 
 
- <p align="left"><a href="https://t.me/cat_of_tg"><img src="https://graph.org/file/d24459bb2db7d99ccdf72.jpg" width="250"></a> </p> 
-
 <p align="left">  
-  <a href="https://t.me/GTHERO">
+  <a href="https://t.me/Leotg_10">
     <img src="https://img.shields.io/badge/%20%F0%9F%92%99-Telegram-blue?style=for-the-badge"/>
   </a>
-  <a href="https://instagram.com/_alwin.biju">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>  
-</p>
 
  
 #### + _Poisons's Github Stats_
